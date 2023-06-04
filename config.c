@@ -14,11 +14,11 @@ Block blocks[] = {
     {"sb-cpu",    10,   18 },
     {"sb-gpu",    10,   28 },
     {"sb-volume",  0,    10 },
-    /*{"sb-battery", 5,    3 },*/
     {"sb-forecast",    18000,    5 },
     {"sb-moonphase",    18000,    5 },
     {"sb-clock",    60,    1 },
     {"sb-internet",    5,    4 },
+    {"sb-battery", 5,    3 },
 };
 
 const unsigned short blockCount = LEN(blocks);
