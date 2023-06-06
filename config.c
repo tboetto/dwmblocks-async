@@ -5,7 +5,7 @@
 
 Block blocks[] = {
     /*{"sb-mail",    600,  1 },*/
-    {"sb-tasks",    10, 26 },
+    /*{"sb-tasks",    10, 26 },*/
     {"sb-music",   0,    11 },
     {"sb-pacpackages",    0,  8 },
     {"sb-torrent",    20, 7 },
