@@ -1,4 +1,5 @@
 build/
 .cache/
 dwmblocks
+compile_commands.json
 /.agent-shell/
