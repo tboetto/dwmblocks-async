@@ -18,7 +18,7 @@ Block blocks[] = {
     {"sb-moonphase",    18000,    6 },
     {"sb-clock",    60,    1 },
     {"sb-internet",    5,    4 },
-    /*{"sb-battery", 5,    3 },*/
+    {"sb-battery", 5,    2 },
 };
 
 const unsigned short blockCount = LEN(blocks);
